@@ -372,35 +372,35 @@ a.button:focus { outline: none;}
 
 
 /* icon_others */
-.x-folder {background-image: url("../../images/file_icon/icon_others/folder.png");}
-.x-folder-mac {background-image: url("../../images/file_icon/icon_others/folder_mac.png");}
-.x-folder-share {background-image: url("../../images/file_icon/icon_others/folder_public.png");}
-.x-recycle {background-image: url("../../images/file_icon/icon_others/recycle.png");}
-.x-recycle-full {background-image: url("../../images/file_icon/icon_others/recycle_full.png");}
-.x-path-self-share{background-image: url("../../images/file_icon/icon_others/path_self_public.png");}
-.x-app-link {background-image: url("../../images/file_icon/icon_others/app_link.png");}
-.x-user {background-image: url("../../images/file_icon/icon_others/user.png");}
-.x-user-self {background-image: url("../../images/file_icon/icon_others/userSelf.png");}
-.x-share {background-image: url("../../images/file_icon/icon_others/share.png");}
-.x-group-self {background-image: url("../../images/file_icon/icon_others/groupSelf.png");}
-.x-group-self-owner {background-image: url("../../images/file_icon/icon_others/groupSelfOwner.png");}
-.x-group-guest {background-image: url("../../images/file_icon/icon_others/groupGuest.png");}
-.x-group-self-root {background-image: url("../../images/file_icon/icon_others/groupSelfRoot.png");}
-.x-group-root {background-image: url("../../images/file_icon/icon_others/groupRoot.png");}
-.x-group-public {background-image: url("../../images/file_icon/icon_others/folder_public.png");}
-.x-tree-self {background-image: url("../../images/file_icon/icon_others/computer.png");}
-.x-computer {background-image: url("../../images/file_icon/icon_others/computer.png");}
-.x-tree-fav {background-image: url("../../images/file_icon/icon_others/treeFav.png");}
-.x-edit {background-image: url("../../images/file_icon/icon_others/edit.png");}
-.x-search {background-image: url("../../images/file_icon/icon_others/search.png");}
-.x-upload {background-image: url("../../images/file_icon/icon_others/upload.png");}
-.x-setting {background-image: url("../../images/file_icon/icon_others/setting.png");}
-.x-logout {background-image: url("../../images/file_icon/icon_others/logout.png");}
-.x-app-store {background-image: url("../../images/file_icon/icon_others/appStore.png");}
-.x-error {background-image: url("../../images/file_icon/icon_others/error.png");}
-.x-info {background-image: url("../../images/file_icon/icon_others/info.png");}
+.x-folder {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/folder.png");}
+.x-folder-mac {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/folder_mac.png");}
+.x-folder-share {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/folder_public.png");}
+.x-recycle {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/recycle.png");}
+.x-recycle-full {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/recycle_full.png");}
+.x-path-self-share{background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/path_self_public.png");}
+.x-app-link {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/app_link.png");}
+.x-user {background-image: url(".https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/user.png");}
+.x-user-self {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/userSelf.png");}
+.x-share {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/share.png");}
+.x-group-self {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/groupSelf.png");}
+.x-group-self-owner {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/groupSelfOwner.png");}
+.x-group-guest {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/groupGuest.png");}
+.x-group-self-root {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/groupSelfRoot.png");}
+.x-group-root {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/groupRoot.png");}
+.x-group-public {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/folder_public.png");}
+.x-tree-self {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/computer.png");}
+.x-computer {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/computer.png");}
+.x-tree-fav {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/treeFav.png");}
+.x-edit {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/edit.png");}
+.x-search {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/search.png");}
+.x-upload {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/upload.png");}
+.x-setting {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/setting.png");}
+.x-logout {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/logout.png");}
+.x-app-store {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/appStore.png");}
+.x-error {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/error.png");}
+.x-info {background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/info.png");}
 
-.x-folder{background-image: url("../../images/file_icon/icon_others/folder_mac.png");}
+.x-folder{background-image: url("https://cdn.jsdelivr.net/gh/jiangdaye521/blog/static/images/file_icon/icon_others/folder_mac.png");}
 
 .common-footer{
 	color:#999;bottom:0px;text-align: center;width: 100%;
